@@ -4,7 +4,7 @@
 
 # Dice Roller
 
-A simple command-line dice rolling game for two players or more players. Each player takes turns to roll two dice, and the player with the higher total score wins. Players can also choose to quit the game at any time.
+A simple command-line dice rolling game for two or more players. Each player takes turns to roll two dice, and the player with the higher total score wins. Players can also choose to quit the game at any time.
 
 <div align="center">
 	<img src="image.png" alt="Dice Roller Screenshot" />
@@ -57,5 +57,5 @@ As a learner and enthusiast of continuous improvement, your feedback and suggest
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the existing code style and include comments where necessary.
 
 ## Acknowledgements
-- Inspired by Educative [Dice Roller](https://www.educative.io) challenge and the desire to create a simple, interactive command-line application.
+- Inspired by Educative.io [Dice Roller](https://www.educative.io) challenge and the desire to create a simple, interactive command-line application.
 - Thanks to the open-source community for providing resources and support for learning Python.
